@@ -405,11 +405,11 @@ p {
 }
 
 .background-1 {
-	background-image: url("../img/home.jpg");
+	background-image: url("../img/home.webp");
 }
 
 .background-2 {
-	background-image: url("../img/about.jpg");
+	background-image: url("../img/about.webp");
 }
 
 .split-image-right {
