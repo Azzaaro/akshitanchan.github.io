@@ -12,7 +12,19 @@ ul ul{
   
 ul ul ul{
     margin-left:40px;
-}  
+}
+
+ol{
+    margin-left:30px;
+}
+  
+ol ol{
+    margin-left:35px;
+}
+  
+ol ol ol{
+    margin-left:40px;
+}
 
 blockquote {
     margin: 3.9rem 0;
